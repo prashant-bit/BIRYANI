@@ -1826,7 +1826,8 @@ PURUSHOTTAM
 Maa marr gayi hai, mujhe pata hai. Wo mujhe kabhi maaf nahi karengi.
 Marina looks at Purushottam with sympathy.
 “One year later.”
-There is a lot of commotion in the asylum. Marina, worried, is running towards the room, finding her way through the crowd.
+There is a lot of commotion in the asylum. 
+Marina, worried, is running towards the room, finding her way through the crowd.
 Purushottam just tried to commit suicide.
 Overdosed with medicine, he lies on ventilation support.
 MarINA
@@ -1844,12 +1845,12 @@ Mujhko baakiyon ne bata diya hai.
 MARINA
 Kya?
 PURUSHOTTAM
-Mera har din naya baap ghar kyun aata tha, meri maa dhandha karti thi.
+Mera har din naya baap ghar kyun aata tha.
 MARINA
 Aur isiliye tumko marna hai?
 
 PURUSHOTTAM
-Kyun ki Meri maa jaiso ka izzat nahi.
+Kyun ki Meri maa jaiso ka izzat nahi aur naa hi koi papa hai mere, baakiyon jaisa.
 MARINA
 Toh log decide krenenge ki tujhe kaise jeena hai?
 PURUSHOTTAM
@@ -1871,7 +1872,7 @@ PuRUSHOTTAM
 Fir maa nahi rahi, aur papa ne dusri shaadi kar li.
 The innocent kids, one by one, hug him and gives him their tiffing before they leave...
 INT. MARINA’S CABIN. DAY- 
-Purushottam is very happy and talking to Marina non stop.
+Purushottam is very happy and is talking to Marina non stop.
 PURUSHOTTAM
 Maa gussa nahi hogi mujhpe? Wo jhooth bolne mana karti thi.
 MARINA
@@ -1901,6 +1902,10 @@ FLASH-BACK ENDS
 Continued from Puru’s room
 “Mein kuch rasta nikal leta maa.”
 He puts the paper on the file and puts it back in the Almirah.
+Int. nEW ROOM(PURU'S). NIGHT-
+------------------------------------------------------------
+ACT 4
+
 INT. KITCHEN. LATER IN THE NIGHT.
 The alarm clock is on the top of the preparation area, Only 15minutes before it rings.
 The butcher is holding a revolver in his hand, mimicking the owner.
@@ -1944,26 +1949,78 @@ He sits on the ground.
 BUTCHER
 Le try kar mujhe maarne ka.
 CUT TO:
-INT. NeW ROOM(PURU'S). DAY-
-Piyusha is getting ready for the office.
-Sudheer comes in the room with a paper in his hand.
-piyusha
-Kal kya hua tumlog ke beech? Ye Dukhi choda bann ke kyun hai?
-Sudheer
-We had a fight, but sab sahi hai, chill.
-He wakes-up Puru and throws the sheet on his face.
-puRUSHOTTAM
-Dude? What the fuck?
-piyusha
-Office ke liye ready ho ja.
-sudheer
-Puru resign kar raha hai.
-piyusha
-Astonished
-What?
-puRUSHOTTAM
-No, I'm not.
-sudheer
-Kar payega wo job?
-puRUSHOTTAM
-Pata nahi
+Int. kiTCHEN(OFFICE).Night -  
+
+The owner is searching for something in the left topmost drawer of the table. 
+
+There are three drawers on both sides of the table.
+The owner sits on, and his eyes move towards the right drawer.
+
+He slowly opens it and finds the gun.
+
+He picks it up and loads the gun.
+
+He presses a button on his watch, but the gun is still not unlocked.
+
+With a smile on his face, he keeps the gun back in the left drawer.
+
+The Butcher enters the scene with lunch in his hand and puts it on the table.
+butcher
+Aapka lunch.
+The owner pulls the drawer slightly and gets in a position from where he can easily grab the gun if needed.
+The owner smells the food and say--
+OWNER
+Baitho, khana kha liya?
+butcher
+Han.
+The owner starts to eat salad, and then, he slides the plate towards the butcher.
+OWNER
+Eat.
+The owner keeps the gun on the top of the table.
+butcher
+Aghori aur bayra, dono ko 7 khoon maaf hote hai.
+OWNER
+Han.
+butcher
+Toh jab kisi ko bayra banaya jaata hai, ye test toh hota hoga? How did you cheat it?
+OWNER
+7 Khoon maaf hota hai, amar nahi banta koi.
+butcher
+Mujhe sab sach lagta tha.
+OWNER
+To run a cult, you need A GOD.
+butcher
+Kuch sach nahi tha? Swarg? 72 virgins? Moksha? Toh fir hum kar kyun rahe hai ye behenchod.
+OWNER
+The cult still exists, The Ministers, the Masters, the vampires. THE POWER. The society runs the world. We just need 3 bodies
+The butcher thinks for sometime and grabs the gun from the table.
+butcher
+I need power.
+OWNER
+Milega tujhe, Salman jaisa.
+We  move down for a second to see that the owner is holding a gun beneath the table, pointing towards the Butcher.
+OWNER
+Agar ye sab sach nahi hai? Toh raat me farsh se khoon apne aap kaise saaf ho jata hai?
+butcher
+Jaise bandook humesha jam ho jata tha.
+The butcher throws away the gun and from his jacket he takes out an old revolver.
+butcher
+Ye jam nahi hoga.
+oWNER
+Society me kabhi bhi bahar se aadmi nahi aate the, you know why did I choose you?
+The owner tightens his grip on the revolver.
+OWNER
+I need a team, hum mil kar iss society ke top me jaa sakte hai, we can rule over the world. Mujhko maarne ke baad kidhar jaoge? Do you know a single minister?
+The Butcher moves away from the table, forcing the Owner to bring out his gun in the open.
+The owner pulls the trigger,
+The gun was jammed
+The butcher, with an evil smile on his face shoots a bullet right in the heart of the owner.
+The owner falls down, breaking the chair behind.
+The Butcher goes towards the body and is shocked to see no blood on the floor.
+The owner opens his eyes, and takes out the knife from the butcher's pocket and stabs him straight in his shoulder.
+The butcher falls down, in unbearable pain.
+The owner takes out his phone from his shirt's pocket, the bullet is stuck in it.
+The phone is ringing in the background.
+Int. new DRAWING ROOM. NIGHT-
+Sudheer is talking to some one on the call, he hangups the call with his last words being - "As soon as possible"
+He picks up the beer bottle and enters Purushottam's room.
