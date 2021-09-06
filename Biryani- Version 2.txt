@@ -1635,19 +1635,11 @@ ACT 2 ENDS
 ACT 3 
 INT.KITCHEN-CS BIRYANI. DAY
 Sudheer and Purushottam, enter the Kitchen.
-The owner and The butcher are sitting there watching television. The butcher is scared, but the owner is calm as always.
+The owner and The butcher are watching television. The butcher is scared, but the owner is calm as always.
 OWNER
 Ab?
 PuRUSHOTTAM
-Dhoondh lenge usse.
-BuTCHER
-Ministers ko bhanak bhi lagi ki ye
-killing humse judi hai, toh gaand
-maar diya jayega hummara.
-OwNER
-Sab under control hai.
-PURUSHOTTAM
-Do we have any clue ki kaun hai wo?
+Dhoondh lenge usse, Do we have any clue ki kaun hai wo?
 OWNER
 Last hotel me jaha tumlogo ne murder kiya tha, wahi ka waiter hai. Iss month ke liye body mil gaya matlab?
 PURUSHOTTAM
@@ -1655,15 +1647,11 @@ Criminal?
 Smiling, the owner says..
 OWNER
 Ye tum decide kar lo.
-From the pantry, the butcher brings a teenager, 17, 5’7; tied with rope and mouth shut with tape.
-Purushottam and Sudheer felt like a cold wind went right through them.
+From the pantry, the butcher brings a teenager(17, 5’7); tied with rope and mouth shut with tape.
+The hunters feels a cold wind gonging right through them.
 PURUSHOTTAM
 Bachcha hai ye.
-The owner rips open the tape.
-Teenager
-desperately
-Mein fan hoon bus.
-Purushottam kneels down near him and..
+The owner rips open the tape. Purushottam kneels down near him and..
 PURUSHOTTAM
 Tumhe pata kaise chala?
 TEENAGER
@@ -1672,7 +1660,6 @@ OWNER
 Sab yehi kyun bolte hai? Tum assume kaise karte ho mein darr kar ye sab kar raha hoon? Mazze se nahi.
 Without paying him any attention, Purushottam signals the teenager to continue.
 TEENAGER
-I believe in the cause.
 Nitish!!! Jiska tumlogo ne Hotel me
 murder kiya, usne meri Didi ko
 waha naukri di thi,fir...(hesitates) unhone..(unable to finish his sentence), Didi ne
@@ -1685,14 +1672,14 @@ Bachcha hai ye, Innocent bachcha.
 TeeNAGER
 Mein tumlog ke saath mil kar ye kar sakta hoon.
 OWNER
-Nahi, hunters humesha 2 hi hote hai, magar..
+Nahi, hunters humesha 2 hi hote hai, ya single sometimes, 3 nahi magar..
 He unties the kid and gives him the gun.
 OwNER
-Tum inme se kisi ek ko maar do, toh tum Hunter bann sakte ho.(to them) Mein kisi ko force nahi kar raha, tumlog apas mein dekh lo.
-The owner goes back to his seat and is thrilled to see how this situation unfolds.
+Tum inme se kisi ek ko maar do, toh tum Hunter bann sakte ho.(to them) Mein kisi ko force nahi kar raha, tumlog apas mein dekh lo. Democracy hai yanha full.
+The owner goes back to his seat and is thrilled to see how this situation will unfold.
 The teenager points the gun towards Purushottam.
 SUDHEER
-Don’t!!! trigger pull mat karna.
+Don’t!!!... trigger pull mat karna.
 Sudheer takes out his gun and points it towards the teenager.
 PURUSHOTTAM
 We can’t give in, Sudheer gun neeche karo, agar hum ek dusre ko nahi maarte toh ye humara kuch nahi bigad sakta.
@@ -1703,33 +1690,27 @@ The teenager’s grip on the trigger tightens.
 Sudheer slowly moves two steps forward, still aiming at the teenager’s neck.
 Purushottam takes out his gun and points it towards the owner.
 The owner smiles.
-
-PuRUSHOTTAM
-to the kid
-Agar isse maar doge toh hum sab nikal jayenge yanha se.
 The kid redirects his aim towards the owner.
 Sudheer and Purushottam have a big smile on their faces, but the owner, well his smile is ever bigger.
 OWNER
 Mujhe maar nahi sakte, trigger dabba ke dekh lo, magar uske baad, tum nahi bachoge. 
 The butcher takes out his knife. The teenager gulps, and very quickly, he brings his gun back towards Purushottam, and before he could pull the trigger,
 BAM!!!
-The teenager is shot. One bullet hit him on his head and the other one on the neck. Sudheer and Purushottam both killed an innocent.
-The smoke from the guns is unusually denser.
+The teenager is shot. One bullet hit him on his head and the other one on the neck. 
+The smoke from the guns is dense, almost like fog.
 As we see from above, The blood moves in all four directions, painting the floor in red, and no one moves an inch until blood reaches them, except the owner, his feet are high up above hanging from the table, swinging playfully.                     
-The butcher starts dragging the body. He is not bothered to clean the blood on the floor.
-Purushottam and Sudheer, like a statue, are standing in the middle of the blood-covered floor, Frozen and not being able to move.
-Becoming aware of his heartbeat, Purushottam turns his head towards Sudheer--
+The butcher starts dragging the body. He is not bothered to clean the floor.
+Purushottam and Sudheer, like statues, are standing in the middle of the blood-covered floor.
+Eventually becoming aware of his heartbeat, Purushottam turns his head towards Sudheer--
 PURUSHOTTAM
 To Sudheer
-What did we do?
+What did you do?
 SudHEER
 We survived.
 PURUSHOTTAM
 At what cost?
 Silence...
-Dejected, Puru keeps his gun in the preparation area. Sudheer is not sure what is Purushottam is doing.
-SUDHEER
-They won’t let us go.
+Dejected, Puru keeps his gun in the preparation area. Sudheer is not sure what is Purushottam doing.
 PURUSHOTTAM
 To the owner
 Kill us.
@@ -1741,21 +1722,21 @@ PuRUSHOTTAM
 Do you want to live to kill innocents?
 Sudheer does not have any answer.
 SUDHEER
-I just want to live.
+I want to live. I have dreamt about living from a long time.
 The owner picks-up the gun and playfully points it towards Purushottam.
 OwNER
 Hum hunters ko nahi maarte, you are free to go, jaha jana hai.
 SUDHEER
 He is lying Puru, Take the fucking gun and we will figure out a way.
 OWNER
-Figure out what? Tumlog free ho jaane ke liye. Tum hummare against kuch mat karo aur apni zindigi ke Raja ho.
-He takes a pack of biryani from a bag lying around and starts eating it.
+Figure out what? Tumlog free ho jaane ke liye.
+He takes a pack of biryani from a bag lying around and starts eating the biryani in it.
 OWNER
 Aao tumlog bhi kha lo.
 They don’t move an inch.
 After a couple of bites, he packs the biryani again.
 OWNER
-Tumlog police me mat jana, media me mat jana and you are free.
+Tumlog police me mat jana, media me mat jana and you are free. Jaa kar kuch ukhaad nahi sakte, as you know, but we admire loyalty.
 Silence...
 OWNER
 Baaki tumlog ko roz ka gosht(meat) nahi milega, naa hi monthly payments.
@@ -1763,7 +1744,7 @@ Sudheer, furiously starts to talk, only to be abruptly silenced by the owner.
 OWNER
 Um mm hmm mm, shhhhh,ch.. ch.. chup.. Tum dono ke pass bus do options hai. One-> continue 2--> shanti se nikal lo
 The owner again unpacks the biryani and starts eating it, this time he is enjoying the bites.
-He revolves around them, finally walking on the blood stained floor.
+He revolves around them, finally walking on the bloody floor.
 OWNER
 Don’t lie, ki tumhe ye meat tasty nahi lagte. isko dekh kar tumhare muh me paani nahi aate. 
 He pats them both and says.. 
@@ -1774,23 +1755,20 @@ They start to leave.
 OWNER
 Ek second, ye le jao.
 Giving them the Biryani.
-As they leave, they leave behind their shoe marks.
+while leaving they leave behind their shoe marks on the bloody floor, eventually the blood erases their foot marks.
 The butcher comes out of the pantry and gives the owner a note of two thousand rupees.
 BuTCHER
 30 din me wapas aayenge.
 OWNER
-Ye saale alag hai, ye 21 din mein aayenge. Tumlog kitne me aaye the?
+Ye saale alag hai, bohot jaldi aayenge. Jab Nasha ke liye ek bahana ho toh nasha jayaz lagta hai.(smirking) Justice..
+The owner takes out a cigarette and takes a drag.
 BUTCHER
-25..(pause) Kis ka nasha ke liye lautenge paisa ki gosht?
-OWNER
-Tum kis liye aaye the?
-The owner takes out a cigarette and smokes it.
-BUTCHER
-Agar hum 25 din me nahi aate toh sach me jaane milta?
+Agar hum nahi aate toh?
 OWNER
 Meine 4 murders kiye hai, 1 nahi 3 nahi, 5 nahi, 4...
 EXT.MAIN ROAD. 
-The bike is standing at the side of the road, but the engine is still running.
+The bike is standing at the side of the road.
+The engine, still running.
 The Biryani is hanging on the handle, swinging like a pendulum.
 Purushottam is vomiting. Sudheer is standing still, emotionless.
 PURUSHOTTAM
@@ -1811,27 +1789,26 @@ Raising his voice
 Tumne jab goli chalayi, Mein darr gaya aur out of impulse, I pulled the trigger.
 SUDHEER
 Sarcastic smile
-You can do anything to look good. Kill me, I’m a criminal now.
+You can do anything to look good. Kill me, if I’m a criminal.
 Purushottam grabs the bag of biryani and throws it away.
 INT. NEW ROOM(PURU’S).NIGHT - 
 Piyusha is sleeping next to Purushottam.
 He gets up from the bed, and from almirah, he takeout a file.
 The file is very thick.
-As he flips over the pages, we hear the flipping along with his voice narrating the content of the letter.
+As he flips over the pages, we hear the flipping along with his voice narrating the content of the letters.
 “I’m sorry maa, I tried my best”
 ”Maa wo mujhe bully kar rahe the”
 “Maa aaj mujhe naukri lagi”, 
 “Maa aapko Piyusha bohot pyaari lagegi”
 Finally we reach to an empty page.
 “Maa, Mein apni jaan dene ko taiyaar tha, meine bandook bhi oonchi nahi ki thi, magar Sudheer, I see a mad hunter in him.”
-He puts the paper on the file and puts it back in the Almirah.
+He goes on filling the whole page, but we move away from him, seeing his frown converting to a smile, he eventually starts talking to the page.
+We move away from him until we fade to black.
 Int. nEW ROOM(PURU'S). Day-
-Piyusha is getting ready for work.
-She opens the curtain to flood light on puru's eye.
-Puru does not want to wake up.
+Piyusha is getting ready for work. She opens the curtain to flood light on puru's eye, but he does not want to wake up.
 piyusha
 Kal kya hua tere aur Sudheer ke beech?
-Purushottam does not respond.
+He does not respond.
 piyusha
 Office ke liye ready toh ho jaa.
 Sudheer comes inside the room and throws a sheet of paper on purushottam.
@@ -1839,7 +1816,7 @@ sudheer
 Uth.
 Purushottam looks at it.
 PURUSHOTTAM
-Restaurants ke naam.
+Restaurants ke naam?
 piyusha
 Kya chal raha hai?
 sudheer
@@ -1853,11 +1830,8 @@ Ye kab plan hua?
 puRUSHOTTAM
 Meghna? Yanha toh sab gaye honge.
 piyusha
-CS ki kar lo. Tumlog toh pagal ho uske liye. Surprisingly koi nahi jaanta uske baare mein.
-puRUSHOTTAM
-Haan, wo dekhenge.
-piyusha
-Job choroge? Sachi? Matlab ye job ke saath bhi ho sakta hai naa.
+Politely
+Ye job ke saath bhi ho sakta hai naa?
 puRUSHOTTAM
 Haan.
 sudheer
@@ -1869,11 +1843,28 @@ piyusha
 I'm getting late, Puru aaj leave le lo, we will talk about it.
 She leaves.
 sudheer
+She is controlling you. 
+puRUSHOTTAM
+By being practical?
+sudheer
 Mein nahi kar raha job ab, meine resign bhi kar diya.
 puRUSHOTTAM
 Notice period?
 sudheer
-Nahi serve karunga maan chudaye.
+Nahi serve karunga, maa chudaye saale.
+puRUSHOTTAM
+This is life da,(smiling) Rid of useless job.
+sudheer
+What?
+puRUSHOTTAM
+Kuch nahi. Saala sapna dekhne se darta tha tu.
+sudheer
+Because I was hopeless.
+puRUSHOTTAM
+Now?
+sudheer
+We have cleaned the city, God must reward us.
+
 Ext. MAIN ROAD. DAY - 
 Sudheer is driving his bullet, Purushottam is sitting behind.
 PURUSHOTTAM
@@ -1886,8 +1877,7 @@ Sudheer
 3
 Int. Bro's biryani. Day - 
 The ambiance is calm.
-Purushottam and Sudheer have taken a few bytes of the Biryani.
-Their faces show that they did not like the biryani even a little.
+Purushottam and Sudheer have taken a few bytes of the Biryani. Their faces show that they did not like it even a little.
 Sudheer
 Ajeeb kyun hai iska taste itna?
 PURUSHOTTAM
@@ -1895,17 +1885,20 @@ Masala meat ke andar gaya nahi hai dhang se. Next kaha jana hai?
 Sudheer
 Yehi bagal me hai, Google me 4.3 stars hai.
 INT. BIRYANI MAHAL. DAY - 
-Purushottam and Sudheer are sitting among a dozen of tables.
-People are are having nice time, they all are enjoying their food, except -
-Purushottam and Sudheer, their plates of Naan and chicken is partially eaten and their expressions show that they did not like it.
+
+Purushottam and Sudheer are sitting among a dozen of tables. People are having a good time, they all are enjoying their food, except -
+
+Purushottam and Sudheer, their plates of Naan and chicken, are half-eaten, and their expressions show that they did not like it.
 PURUSHOTTAM
 4.3?
 Int. Madras Thaali. Day - 
-This is more of a traditional restaurant, with waiters wearing lungi. 
-Purushottam and Sudheer remain same, they did not like the food a single bit.
+
+This is more of a traditional restaurant, with waiters wearing lungis.
+Purushottam and Sudheer remain the same.
+They did not like the food a single bit.
 [Montage of them trying for next 7 days and failing. Purushottam is not treating Piyusha with love and she goes to the support center alone once.]
 Int. neW ROOM(sudheer'S). NIGHT-
-Purushottam is staring at an empty screen, with Sudheer beside.
+Purushottam is staring at an empty screen, with Sudheer sitting beside.
 Sudheer
 Will this work out?
 PURUSHOTTAM
@@ -1922,21 +1915,30 @@ piyusha
 What happened that night?
 She stares at Sudheer. He leaves the room.
 pURUSHOTTAM
-I will tell you.
+I will tell you. Sahi time aane pe.
 piyusha
+Playfully, excited
 Let's go naa, mind divert hoga tera.
+pURUSHOTTAM
+Nahi mann.
+piyusha
+Chal naa, Piyusha bhi hogi waha, I have heard that she likes you, plus she is the hottest girl there.
+pURUSHOTTAM
+Yaar sach me mann nahi.
+piyusha
+Chalo na chalo na chalo na
 pURUSHOTTAM
 SHOUTING
 Nahi mann bola na.
-Piyusha is shocked as he shouted, but she calmly sits beside him.
+Piyusha is shocked, but she calmly sits beside him.
 piyusha
-Mujhe nahi pata kya hua tha, take your time. But when I was trying to move away from my addiction I was like this. 
+Mujhe nahi pata kya hua tha, take your time. But when I was trying to move away from my addiction I was like this. I know something happened that night, but aisa bhi kya hua hoga, kisi ka murder thodi kiya jo itna tensed baithe ho.
 She kisses him on his lips.
 piyusha
 I'm there for you.
 She unzips him and puts her hand inside his pant.
 piyusha
-Now calm down.
+Now calm down. Let the sweet girl warm you dad-da.
 INT. KITCHEN. LATER IN THE NIGHT.
 The alarm clock is on the top of the preparation area, Only 15 minutes before it rings.
 The butcher is holding a revolver in his hand, mimicking the owner.
@@ -1944,6 +1946,7 @@ The OWNER
 1 nahi 3 nahi 5 nahi 4... Ab tmlogo ke pass do hi option hai.
 He enacts the other person, and tries to pull the trigger and the trigger is actually jammed.
 He tries to shoot several times, but it is jammed.
+It is actually jammed. The butcher is confused.
 The owner enters the kitchen.
 The OWNER
 Hunter waale din yaad aa gaye kya?
@@ -1972,33 +1975,28 @@ Kaise?
 the OWNER
 Next body jab aayega, tumhe bhi dikha dunga. Abhi (looking at the clock), abhi chalo.
 faDE TO BLACK.
-
 Ext. sudheer's parents home. Day
-A black Skoda Laura is standing outside the home, Sudheer's bullet rests beside it.
+A black Skoda Laura is standing outside the home. Sudheer's bullet rests beside it.
 Sudheer is waiting for someone to open the door.
 The door is opened by SARVESH(6'2, FAIR, RIPPED).
 sarvesh
 Sudheer?
 INT.
-He gets inside the home, there is a festive environment inside.
+He gets inside the home; there is a festive environment inside.
 His mother comes running to him.
 mother
 TELUGU
-Akka is having a baby, meet Sarvesh, your brother in law.
-Forcefully he shakes hand with Sarvesh.
-Sudheer is visibly upset.
-The mother leaves.
-Awkward silence.
-sarvesh
-TELUGU
-We are sorry.
-Sudheer looks at his phone, pretends to call someone.
+Akka is having a baby, meet Sarvesh, your brother in law. What? I'm saying, you know each other from chaddi days.
+Forcefully he shakes hand with Sarvesh. Sudheer is visibly upset.
+The mother leaves as she hears whistle of the cooker.
+Awkward silence....
+Sudheer looks at his phone, pretends to read a message.
 sudheer
 TELUGU
 Tell Amma I got some urgent meeting. 
 He leaves the house.
 EXT.
-Sudheer kicks the bike to start the engine.
+Sudheer is kicking the bike to start the engine.
 Sarvesh comes running to him.
 sarvesh
 TELUGU
@@ -2006,12 +2004,12 @@ Please come. Ragini will come tonight.
 sudheer
 TELUGU
 I have some work bro.
-Sarvesh takes out key from the bike. Sudheer is visibly angry, but he controls himself.
+Sarvesh takes out the key from the bike. Sudheer is visibly angry, but he controls himself.
 sarvesh
 TELUGU
-We did not know many things in our childhood, you...(pause)you were not we knew something existed like you.
+We did not know many things in our childhood, you...(pause)you were not(pause)we did not know something existed like you. We have a support NGO for lgbtq people, we are changed.
 sudheer
-Do you now?
+Do you really now? And saying something like me? Thing??? Thing??
 sarvesh
 I very well do, I take pride..
 sudheer
@@ -2019,10 +2017,10 @@ Thank you...I have some work to finish.
 Sarvesh refuses to give the key.
 sarvesh
 TELUGU
-Let's go bro.
+Let's go inside bro.
 sudheer
 Telugu
-What your LGBTQ NGO will think when they come to know about how you bullied a boy, how you two bullied 
+What your LGBTQ NGO will think when they come to know about how you bullied a boy, how you two bullied a boy who had some courage to come out of closet. But you closed him inside the closet forever?
 sarvesh
 We have changed.
 sudheer
@@ -2030,7 +2028,7 @@ Give the key.
 sarvesh
 Come in.
 sudheer
-You have courage to bully me now?
+Do You really have courage to bully me now?
 Sudheer puts the stand and threateningly stands close Sarvesh. 
 sudheer
 Give the key.
@@ -2039,7 +2037,7 @@ The mother comes out of the house.
 Sudheer hugs Sarvesh and with a smile on his face, he says.
 sudheer
 TELUGU
-I'm friends with dangerous people. No one will find your body, if I want it.
+I'm friends with dangerous people. They peel off skin before chopping the meat. you don't want to meet them.
 sarvesh
 We are really sorry.
 sudheer
@@ -2051,10 +2049,10 @@ Come in?
 sudheer
 TELUGU
 Amma will come back in one and two days, have some urgent affairs.
-
 Int. party hall. Night-
-A very boring party is on, a band playing old Bollywood numbers.
-Piyusha is looking gorgeous in her black saree, there are 5 other (3 males and 2 lady) on her table.
+A tiresome party is on, a band playing old Bollywood numbers, waiters giving food to very silent groups of people on different tables.
+On one suck Table we see Piyusha, looking gorgeous in her black saree.
+There are five others (three males and two ladies) on her table.
 lady 1
 They are saying that, the vigilante in the city are two cops.
 man 3
@@ -2065,19 +2063,27 @@ You do not like anything about country no?
 man 3
 It's not about country, it is about dog eat dog world. Why would any one with power will do any thing like this?
 lady 2
-Oh! Come on! You hate India, you hate every aspect of it.
+To help? People who love the country? They exist.
 While sipping his wine Man 4 says.
 man 4
 I think he is right, when was the last time some police helped you?
 MAN 5
-Always, my uncle is in army, he has police friends in Kashmir.
+Always, my uncle is in police.
 Lady 1
 It does not matter who is with whom, this city is getting clean.
+man 3
+No one will help common people without their profit. May be one gang is killing another gang members.
+lady 2
+Or may be, because of corrupt leaders in the past was holding back and now when we have a just and powerful government, that person is helping us all. Leadership matters.
+man 3
+Then there should be such cops in every city?
+lady 2
+May be there is. Why do you think petrol prices are up? We need money to clean our nation.
 Piyusha is dejected, not paying attention to their conversation.
 Man 6 asks Piyusha.. "What do you feel?"
 piYUSHA
-It's all a lie, people caring for other people or the nation in general, it is just to feel useful that we align ourselves to sides.
-A waiter comes in with a tray full of wine glass. Every one take one glass except Piyusha.
+I don't know, they feel legit. 
+A waiter comes in with a tray full of wine. Every one take one glass except Piyusha.
 man 6
 Piyusha?
 piYUSHA
@@ -2100,34 +2106,35 @@ Sorry, He needs me, tabiyat theekh nahi.
 She leaves.
 man 4
 Whispers inside the group
-And other day, she was talking to a stranger about her abusive father.
+And other day, she was talking to a stranger about her abusive father. Her father died when she was 4, no one even found is body.
 Piyusha overhears it. She is embarrassed.
 Ext. cs BIRYANI. NIGHT - 
 Sudheer parks his bike and goes inside.
 Int. cs BIRYANI. contd - 
 He orders special biryani for himself.
-Within a few seconds he gets it.
-He eats a few bites and from his expression, we know he is not liking it.
+Within a few seconds, he gets it.
+He eats a few bites, and from his expression, we know he dislikes it.
 Int. neW ROOM(PURU'S). NIGHT-
-Piyusha while changing her cloths. Purushottam is sitting on the bed.
+Piyusha is changing her cloths. Purushottam is sitting on the bed.
 PURUSHOTTAM
 Party kaisa tha?
 piyusha
-Acha hai tha.
+Acha hi tha.
 PURUSHOTTAM
 Why are you changing cloths? Just drop them.
-She takes out her lower and comes close to Purushottam.  he opens her bra and she stands in front of him topless. She lowers his pants and sits on top of him.
+She takes out her lower and comes close to Purushottam.  He opens her bra and she stands in front of him topless. She lowers his pants and sits on top of him.
 piyusha
 While moaning
 I love you.
 Purushottam kisses her neck, licks it.
 piyusha
-I was thinking ki Supports group aur nahi jaana hai.
+I was thinking ki Supports group aur nahi jaate hai.
 PURUSHOTTAM
 Kyun?
 piyusha
 I don't want to lie any more.
 Purushottam starts sucking her breasts. Her moans intensifies.
+He is losing control on himself, he is desperate for meat.
 PURUSHOTTAM
 Kyun?
 piyusha
@@ -2137,11 +2144,11 @@ piyusha
 It is cowardly to live on lie.
 Purushottam stops.
 PURUSHOTTAM
-Coward ?  How ? 
+Cowardly ?  How ? 
 piyusha
 If we are not comfortable with ourselves, life is meaningless.
 PURUSHOTTAM
-Don't lie about now lying.
+Don't lie about not lying.
 She covers herself with the white blanket.
 piyusha
 Chhote motte jhooth bolna is okay, magar, I...
@@ -2166,7 +2173,7 @@ Society. But why?
 piyusha
 I don't know.
 PURUSHOTTAM
-Because we are not perfect? Or they judge?
+Because we are not perfect? Or because they judge?
 piyusha
 Because they judge.
 PURUSHOTTAM
@@ -2181,31 +2188,33 @@ Do they deserve truth?
 Piyusha remains silent.
 PURUSHOTTAM
 No. And That is why we live in lie.
-He slowly removes the blanket from her and starts kissing her. Piyusha is not kissing him with passion. Purushottam moves away from her lips and starts licking her neck. He slowly loses control and smells her in an unusual way. He starts to taste her, smell her, he treats her neck as a piece of meat and all of a sudden ----
+He slowly removes the blanket from her and starts kissing her. She is not kissing him with passion. 
+He moves away from her lips and starts licking her neck. 
+He slowly loses control and smells her in an unusual way. He starts to taste her, smell her, he treats her neck as a piece of meat and all of a sudden ----
 ----He bites her till she bleeds a little. Piyusha jumps up from the bed in pain.
 piyusha
 Shouting
 What was that?
-She presses her neck tightly.
+She presses her neck tightly. She is in immense pain.
 piyusha
 Say something.
-Purushottam comes back to his senses.
+He comes back to his senses.
 PURUSHOTTAM
 Zor se ho gaya?
 piyusha
 That was very much intentional. For what? I don't want to go to support group any more?
 PURUSHOTTAM
 No...No...No..no...no.... Mein hurt nahi karna chah raha tha.
-Piyusha is staring at him with disgust.
+She is staring at him with disgust.
 PURUSHOTTAM
 I'm not a man who beats women.
-Piyusha starts to dress again.
+She starts to dress again.
 piyusha
 You! Man you are telling me what happened that night.
 PURUSHOTTAM
 What were you addicted to?
 piyusha
-When was the last time, I abused you because of that.
+When was the last time, I abused you because of that?
 PURUSHOTTAM
 Abuse? Yaar I have given you a dozen of hickies.
 piyusha
@@ -2215,23 +2224,25 @@ Ye Abuse nahi tha.
 piyusha
 I have seen this before.
 PURUSHOTTAM
-You never had an abusive father. You don't lie to me.
+You never had an abusive father. 
 piyusha
 I have met an abusive man, Puru-Sho-tam. I don't want to be with another one.
 PURUSHOTTAM
-Don't go.
+That was just the story we made up.
 As she is about to leave, he holds her hand.
 PURUSHOTTAM
 Please.
-She tries to free her hand. Puru tightens his grip, but eventually he leaves her. Her arm is marked with red with his finger marks. 
+She tries to free her hand. Puru tightens his grip, but eventually he leaves her. Her arm is left with his finger marks. 
 She hugs him, kisses him on his cheeks.
-Piyusha -"Agar mein ab bhi addict rehti, toh tumko pata rehta sab, I'm hiding my past, not present. kya cheez se guzar rahe ho?"
+Piyusha -"Agar mein ab bhi addict rehti, toh tumko pata rehta sab, I'm hiding my past, not present."
 Purushottam does not speak.
 Piyusha - "Let me help, or make it your past."
 She kisses him on his lips, one last time and she leaves.
-PIYUSHA - "Finish your novel, it is good."
+Piyusha - "No one can abuse me, it starts small before it becomes unbearable."
+Purushottam - "You are right, but I did not want to hurt you. seriously"
+She leaves.
 Int. cs BIRYANI. NIGHT -
-The owner comes to the table of sudheer.
+The owner comes to the Sudheer's table.
 Sudheer
 gosht?
 oWNER
@@ -2241,15 +2252,15 @@ Humme toh pehle gosht milta tha, special Biryani me?
 The owner smiles. He gives him a small bag.
 oWNER
 If you want meat, bring one again
-Sudheer looking at the bag.
+Sudheer looking at the bag say...
 Sudheer
 Itne se kya hoga?
 oWNER
 Pyaase ho? toh kaafi hai.
 Int. new drAWING HALL. NIGHT -
 Completely dark, nothing could be seen clearly.
-The main door is opened, Sudheer enters the home, from the light flooding in from outside, we se Purushottam sitting next to the door, crying.
-Sudheer closes the door and quietly sits beside him. 
+The main door is opened, Sudheer enters the home; from the light flooding in from outside, we see Purushottam sitting next to the door, crying.
+Sudheer closes the door and quietly sits beside him.
 Silence for a few seconds.
 Purushottam breaks the silence - "Tum toh 5 din baad aane waala tha?"
 Sudheer - "Piyusha?" 
@@ -2259,27 +2270,27 @@ Silence for a few seconds.
 Purushottam - "Dude Switch on the light." 
 Sudheer does that and Purushottam is staring at him.
 Sudheer - "What?"
-Purushottam - "Staring at you with burning fire in my eyes, just in enough control to not to hit him on his face."
+Purushottam - "Staring at you with burning fire in my eyes, just in enough control to not to hit you hard on your face."
 Sudheer - "What?"
 Purushottam - "Writing my novel. But the emotions are real."
-Sudheer - "Why did she leave you?"
+Sudheer - "Why did she leave?"
 PURUSHOTTAM - "Leave it. Why did you come back?"
 Sudheer - "Leave it." 
-PURUSHOTTAM - "She, left for no reason, She left for no fucking reason."
-Sudheer - "They are fucking bastards, trying to look good."
+PURUSHOTTAM - "She, left for no reason, She left for no fucking reason. feminazi"
+Sudheer - "They are fucking bastards, trying to look good after ruining my childhood"
 Purushottam switches on the television.
 Purushottam - "Nahane jaa raha hoon kal office jaane ka mann nahi yaar."
-The news of a 5 years old girl being rapped is been shown in the channel.
+The news of a 5 years old girl rapped is being shown in the channel.
 Sudheer - "Switch it off, bloody rapists"
-New Anchor - "People of Bangalore have voted in our pole, regarding if they feel justice will be provided or not. 7% people feel no, 19% believe will be delivered very late, 74% have faith on the batmen of Bangalore. The rapist is not identified, but the people have immense support on their superhero." 
+New Anchor - "People of Bangalore have voted in our pole, regarding if they feel justice will be provided or not. 7% people feel no, 19% believe will be delivered very late, 74% have faith on the batmen of Bangalore. The rapist is not identified........." 
 They both look at each other.
 sudheer
-We are BAT - MEN. We were getting rewarded for being Batmen. I had my sister out and you...
+We are BAT - MEN. We were getting rewarded for being Batmen. I had my sister out and you surprisingly had a girl friend way hotter than you.
 Purushottam mutes the television.
 PuRUSHOTTAM
 He made us kill an innocent, Mein kisi begunah ko fir nahi maar raha.
 sudheer
-Yaad hai? You used to tell me what makes a man powerful and why power is over preached.
+Yaad hai? You used to tell me what makes a man powerful? And why no one should be powerful?
 PuRUSHOTTAM
 Haan.
 sudheer
@@ -2293,9 +2304,9 @@ GOD.
 sudheer
 And if we decide not to clean this city.
 PuRUSHOTTAM
-We are GOD.
+We are GODs.
 sudheer
-What should a powerful men do with their powers?
+What should powerful men do with their powers?
 PuRUSHOTTAM
 Help.
 sudheer
@@ -2317,46 +2328,41 @@ sudheer
 Kya diya tha unhone?
 PuRUSHOTTAM
 Nakli gosht.
-They both smile and starts eating the delicious Biryani.
+They both smile and start eating the delicious Biryani.
 Complete silence.
 The clock on the wall is ticking.
 The --GOD and the -DEVIL are watching them silently, except that clock.
 The clock keeps ticking.
 Int. cs BIRYANI. NIGHT -
 Raining outside.
-
 The owner is closing the restaurant.
-
 Wet floors, half shut shutter, green tint in the environment. Chairs kept on top of each other, tables pushed against the walls.
-
 The light flickers!!
-
 And we see a foot outside the restaurant, well dressed in a suit and shiny reflective shoes.
-
 The figure pushes the shutter up and makes his way inside.
-
 Red tie, White shirt beneath the suit, a black briefcase held with palm-covered with black glove and a crisp collar.
-
 The Japanese man enters with swag in his steps.
 OWNER
 Japanese
 I don't need new recruits.
 the recruiter
+Italian
 Ek khabar laaya hoon.
 OWNER
 Japanese
 and what will that be?
 The owner pulls a table and gives The recruiter a chair to sit.
 the recruiter
+Chinese
 4 aur....
 OWNER
 Aur?
 the recruiter
-Ministers are happy with you, har month ek body de rahe ho.
+Ministers are happy with you, har month ek body de rahe ho. They need 1 in 4, to be alive, every month thoda thoda, they are again getting addicted. We don't have more jews to kill.
 OWNER
 Little quantities, maximum hunters ko khush rakhne me lag raha hai.
 the recruiter
-They need full flesh every 4 months, so they will recruit you as soon as you provide them more 4 bodies.
+They will recruit you as a minister as soon as you provide them more 4 bodies.
 OWNER
 4?? itna specific kyun?
 the recruiter
@@ -2380,7 +2386,7 @@ We have lost 4 hunters due to this.
 OWNER
 Aur ek Salman bhi mila hai.
 the recruiter
-You think you will win the war with only Salman and that useless butcher bu your side?
+You think you will win the war with only Salman and that useless butcher by your side?
 OWNER
 JAPANESE
 And an arrogant Japanese.
@@ -2389,24 +2395,20 @@ You know what they did with Hitler.
 OWNER
 And Osama, But mein utni bodies bhi nahi de raha ki wo pagal ho jaaye. 
 the recruiter
-You need to, we need the badge of the 9.
+We need the badge of the 9.
 OWNER
 Tumhe lagta hai? God ka position khaali hai?
 the recruiter
 we need to be in the 9 to understand the 9.
 OWNER
-Nishiddh cheeze nishiddh kyun hai?
-the recruiter
-Iska jawab bus unke pass hai.
-OWNER
-Aur wo gayab. Mujhe pata hai kya karna hai, and we need two warriors to win, not two hunters.
+we need two warriors to win, not two hunters.
 the recruiter
 Agar ye 2 wapas nahi aaye toh?
 OWNER
 4 me 2 bodies toh mil jayegi.
 Lightning!!! Thunder!! and the electricity goes off.
 the recruiter
-Do you believe that old bastard?
+why Don't you believe that old bastard?
 OWNER
 Do you?
 
@@ -2416,11 +2418,8 @@ The recruiter, from his pocket, takes out a small torch and switches it on.
 
 The light blinds The owner for a second, and as soon as he opens his eyes...
 FLASH BACK - 
-
 The kid opens his eyes to see the truck turned over; it did not kill him.
-
 He runs back to the beach, and there are no Aghoris, except the enlightened one, still sitting peacefully in front of the havan-kund.
-
 The kid sits beside him.
 OWNER
 Sach me 7 khoon maaf hai?
@@ -2438,6 +2437,10 @@ Cheen se ho?
 the recruiter
 In Korean
 From Delhi.
+ownER
+Kya?
+the recruiter
+Delhi se hoon.
 ownER
 Lagte nahi ho.
 the recruiter
@@ -2466,7 +2469,7 @@ The society me ghus ke.
 ownER
 Usme kaise ghuste hai?
 the recruiter
-Hum ghus chuke hai.
+Ye toh bus guruji jaante hai.
 Int. dingy room. Day - 
 The Aghori is packing his bag. The owner and the recruiter are just watching him.
 Aghori
@@ -2493,7 +2496,10 @@ The owner shoots the Aghori right in his chest, and the Aghori falls on the floo
 sarfaraaz
 Marr gaya kya?
 
-The slowly goes towards him and TADA!!!
+They slowly goes towards him and 
+
+TADA!!!
+
 The Aghori suddenly stands up, scaring the two kids.
 He is holding the bullet. He gives it to Sarfaraaz.
 sarfaraaz
@@ -2505,19 +2511,19 @@ Miletary grade, bus 4 hi hai mere pass, tum log ek ek rakh lo.
 the owner
 Matlab sach me humme koi nahi maar sakta?
 Aghori
-Maar sakta hai, magar jaha sabka marna tayy hai, hum shayad marre. Agar tumhare car me koi nuclear bomb fodd diya toh tum nahi bach sakte.
+Maar sakta hai, magar jaha sabka marna tayy hai, humara shayad hai. 
 the owner
-Waise toh koi goli le kar khada ho jaaye toh bhi nahi.
+Ye goli se bachna sirf kismat tha?
 Aghori
-Insaan sabse zada kiss se dardta hai?
+Kismat nahi. Ek baat batao Insaan sabse zada kiss se dardta hai?
 the owner
 Bhooth?
 Aghori
 smiling
-Nahi!!! Jigra se. Bade se Bade raja aur rahya ko girane waala hai jigra. Jab maut tere saamne khaade ho jaaye, toh chaati chauda kar ke uske saamne ek muskaan ke saath khada ho jao. Goli sir par nahi, sirf dil pe maarne ki koshish karega.
+Nahi!!! Jigra se. Bade se Bade raja aur rajya ko girane waala hai ye jigra. Jab maut tere saamne khaade ho jaaye, toh chaati chauda kar ke uske saamne ek muskaan ke saath khada ho jao. Goli sir par nahi, sirf dil pe maarne ki koshish karega.
 The Aghori put the metal plate in Jay's (The owner's) Shirt pocket.
 Aghori
-Dahine mein hai pocket, left waali bana ke rakho.
+Dahine mein hai pocket, left waali bana ke rakho. Aur haan Geeta padhte rehna, Sara sach chupa hai usme.
 In a blink of an eye, the Aghori disappears from the room, a note is fallen on the floor.
 Jay picks it up and reads.
 FLASH BACK ENDS - CONTD FROM --
@@ -2526,12 +2532,12 @@ OWNER
 Agar ishwar tak tumhe jana hai toh Sahi galat ke beech me chunao nahi, kuch sahi aur kuch galat karna padega.
 The electricity comes back.
 the recruiter
-Salman ne apni team bana li hai, b us uske pass butcher nahi hai.
+Salman ne apni team bana li hai, bus uske pass butcher nahi hai.
 The recruiter gives him a paper.
 OWNER
 tumhe lagta hai wo wapas aayega?
 the recruiter
-Steel city me chupa hai wo. Mujhe pata hai.
+Steel city me chupa hai wo. 
 OWNER
 Tum mile ho uss se?
 the recruiter
@@ -2540,23 +2546,29 @@ OWNER
 Wo zinda hai?
 the recruiter
 Ek din buddha nahi hua wo.
+The myths may be untrue, but the position and the religion is true.
+Looking at the the paper.
 OWNER
-Wo sach kaha tha humse sab?
+Ye toh Bangalore ki maal hai, Salman yanha se kyun utha raha hai? 
 the recruiter
-The myths may be untrue, but the position and the religion is not.
-Looking the the paper.
+Wo log ko nashedi bana kar nahi hire karta, wo nashediyon ko hire karta hai. Salman Guruji se kabhi nahi mila, but wo guruji ki har baat maanta hai. Geeta padhte ho?
 OWNER
-Ye toh Bangalore ka maal hai, Salman yanha se kyun utha raha hai? 
+Khoon se range haatho se? Padh kar faida hai?
 the recruiter
-Wo log ko nashedi bana kar nahi hire karta, wo nashediyon ko hire karta hai.
+Bodies jald se jald jugaad karo.
 OWNER
 Mein bodies itna jaldi nahi de sakta.
 the recruiter
 Wo wapas nahi aayenge, abhi maar do.
-The butcher enters the scene.
+The butcher enters the restaurant from kitchen side.
 butcher
 Dono gun lene aaye hai wapas.
 The owner is smiling.
+He turns back to smile at The recruiter. No one is there.
+OWNER
+Ye aisa gayab kaise hote hai?
+butcher
+Bhaag ke gaya bohot tezz. 
 CUT TO:
 KITCHEN - CONTINUOUS
 Purushottam is going to touch the telephone on the preparation area.
@@ -2572,8 +2584,6 @@ OWNER
 Kabhi na kabhi maroge hi.
 sudheer
 wo toh sab maarenge.
-OWNER
-Isko jo bhi choota hai, wo gala me ghutan ke karan Marta hai.
 Purushottam laughs, The butcher also laughs.
 The owner looks at the butcher with anger in his eyes.
 owNER
@@ -2612,7 +2622,7 @@ Tum Tata Nagar se ho naa?
 puRUSHOTTAM
 Haan.
 owNER
-Bachcho ko le aao, iss game ka level two bohot mazzedaar hai.
+Bachcho ko le aao, iss game ka level two bohot mazzedaar hai. You will get to kill real demons.
 The owner from his office brings the guns and gives it to them.
 owNER
 Body laane ke baad hi,Biryani milegi ab. Chalo jao. Aur suno, ab training kar lena, sheher me chutiye criminals kam ho gaye hai.
@@ -2629,13 +2639,14 @@ Sudheer
 May be. But how will we track the rapist?
 PURUSHOTTAM
 I have a plan.
+[Des Rocs - Used to the Darkness, starts]
 Int. new DRAWING ROOM. DAY-
 Purushottam and Sudheer are standing on the opposite side of the table, with a map on top of it.
 Sudheer
 You sure we can't discuss this without a map?
 Purushottam pin pointing JayaNagar on the map.
 PURUSHOTTAM
-Rape iss police station ke area me hua hai, magar, (pointing his pen to another police station), somehow case ye investigate kar rahe hai.
+Rape iss area me hua hai, magar, (pointing his pen to another police station), somehow case ye investigate kar rahe hai.
 Sudheer
 Kyun ki bachchi ka ghar wahi hai.
 PURUSHOTTAM
@@ -2664,9 +2675,9 @@ Sir bhi nahi foota aur
 He leaves him. Purushottam is not able to move.
 Sudheer
 Aur tum hil bhi nahi sakte kuch der.
-[MONTAGE - ENDS]
+[With some more training scenes MONTAGE - ENDS and the song too]
 Int. neW ROOM(PURU'S). NIGHT-
-They are drinking beer, worn out after an intense training session.
+Worn out after an intense training session, they are drinking beer.
 Sudheer
 Tumhe sach mein goli nahi chalate agar mein nahi chalata?
 pURUSHOTTAM
@@ -2704,8 +2715,6 @@ smiling
 Kaha?
 PURUSHOTTAM
 C.S.
-AKASH TRIPATHY is standing behind them, looking at them with suspicion. He goes out of the station quietly.
-
 police 2
 KANNADA
 I have seen you two there, every Friday.
@@ -2726,9 +2735,16 @@ Whom?
 PURUSHOTTAM
 Jis din humme cs ke baare me pata chala tha, uss din waha ek inspector child porn dekh raha tha?
 Sudheer
-Oooooooh yess - Surender Koli.
+One inspector.
+PURUSHOTTAM
+Kaun?
+Sudheer thinks for a second and he realizes it.
 PURUSHOTTAM
 We have found our guy.
+Sudheer
+Now?
+PURUSHOTTAM
+Now we hunt him, but before that, I want see if he bleeds.
 act 3 ends
 
 ACT 4
@@ -2747,9 +2763,150 @@ butcher
 Haan yehi giri thi, mil gayi.
 He leaves without looking at the owner's eye.
 The owners eyes are filled with suspicion.
-Int. new DRAWING ROOM. NIGHT-
-
-EXT. FLEE MARKET. NIGHT - 
+Purushottam and Sudheer enters the cabin.
+oWNER
+Ji maalik log.
+puRUSHOTTAM
+Surender Koli.
+oWNER
+Usne rape kiya hoga impossible.
+puRUSHOTTAM
+Kitna jaante ho tum usse?
+The owner smiles.
+oWNER
+Tum logo se kam obviously.
+puRUSHOTTAM
+We are going to kill him.
+oWNER
+Okay.
+puRUSHOTTAM
+Wo tumhara customer nahi?
+oWNER
+Oh!! yess! But believe me I want him dead more than you do.
+puRUSHOTTAM
+Why?
+oWNER
+smiling
+Bohot irritate karta hai aaj kal.
+puRUSHOTTAM
+Usse society ke baare me pata hai?
+oWNER
+Haan aur naa dono. He thinks he is light Yagami.
+puRUSHOTTAM
+How should we kill him?
+oWNER
+Bina mehnat ka paisa chahiye? Jao khud dekho kaise maarna hai.
+Purushottam takes out a knife and swings it at the owner, cutting his precious black suit.
+Blood drips out of the cut.
+puRUSHOTTAM
+You can bleed, and so you can die.
+The owner is angry. He opens his coat, examines the coat and stares at Purushottam.
+oWNER
+Try...
+Purushottam with his new skill advances towards The owner by doing a side somersault he tries to kick the him, but 
+The owner grabs him by his neck before he could complete his whole act.
+oWNER
+Tumse bachne ke liye? Mein aise hi kaafi hoon.
+He takes the knife and puts purushottam's palm on the preparation area.
+oWNER
+Kaun si oongli sabse kam pyaari hai?
+He brings the knife down, cutting --
+-- Nothing. He leaves Purushottam.
+oWNER
+Power is the ability to do mercy.
+He wears his coat back, and suddenly he comes back to his playful nature.
+oWNER
+Toh mein nahi bata sakta kaise kaha maarna hai. Magar Sharabi kaha milta hai?
+puRUSHOTTAM
+Magar Bangalore me sharab toh ban hai.
+oWNER
+Aah! Haan! Very controversial decision by the government. Magar Sharabi kaha milta hai?
+puRUSHOTTAM
+Madhushala.
+oWNER
+Chikpit metro station ke bagal me ek aisi hi madhushala hai. Chhoti, gupt aur bina suit aur iske(gives them a card, deep red with black patterns on it) Jahusi yurilya.
+puRUSHOTTAM
+Kya?
+oWNER
+The whites ka greeting word.
+puRUSHOTTAM
+Whites?
+oWNER
+smiling
+The society ka sabse mazboot ally. 
+cut TO:
+Ext. Chikpit metro station - night 
+Purushottam and Sudheer, in tuxedo comes out of the metro station.
+PURUSHOTTAM
+VOICE OVER
+Hum bar mein ghusenge seedha, aur Mein koli ko baaton mein fassaunga, tab tak tum uske tux se gun nikaloge.
+The walk through a jam-packed road. Eventually they find a very narrow street, with muddy road and a building with neon plate stating - "White dairy."
+They head towards it.
+Int. neW DRAWING ROOM. last NIGHT
+Sudheer
+Magar gun kyun lena hai?
+purUSHOTTAM
+In case, something goes wrong, we have an advantage.
+Ext. narrow street. Contd
+They reach to the dairy shop.
+shopkeeper
+Kannada
+Kya chahiye?
+PURUSHOTTAM
+Jahusi yurilya.
+shopkeeper
+Hail to our queen.
+He opens gives them way to go inside the door behind him.
+Int. bar. Night - 
+They are hit by the coldness inside the room, almost empty with one bartender and three more.
+Brick walls, looks like a cheap restaurant, but more sophisticated and clean.
+On television
+They look around.
+Int. neW DRAWING ROOM. Last NIGHT.
+pURUSHOTTAM
+Magar pehle we need more proves.
+Sudheer
+We won't get any.
+pURUSHOTTAM
+Child porn dekhna is not enough.
+Sudheer
+What do we do?
+pURUSHOTTAM
+Humlog uss se dosti karnege, we will find out and then we will kill him.
+Sudheer
+Wo kaise karenge?
+pURUSHOTTAM
+He will know us when he sees us.
+Int. bar. Night - 
+From the washroom, Surender comes out. He goes to the counter to order.
+Purushottam approaches him.
+PURUSHOTTAM
+Jahusi yurilya.
+koli
+quzi ilam.
+PURUSHOTTAM
+Hail our queen.
+koli
+And as the new generation says, Hail the queen my lord. ilam ko kaun maanta hai ab.
+He pats Purushottam.
+koli
+Nine se aid ho hummare ki whites ho?
+PURUSHOTTAM
+Nine..... Hunters hai hum.
+koli
+Hunters? Nine ke uss law ka kya hua? Never let the inner working out.
+PURUSHOTTAM
+The new generation have different believes.
+Sudheer from behind takes his gun in a very stealthy manner. Puru looks at him with - "But why" expression.
+Koli turns back.
+koli
+Tum dono nine me ho?
+sudheer
+Jahusi yurilya.
+koli
+smiling
+Kamaal hai, ho aaj ke launde magar taalim hummare zamane ki hai. Saath me tunn hote hai? Hail the queen.
+EXT. FLEE MARKET. NIGHT  
 The market is closed and no one except a few beggars and dogs are on the pavement of the street.
 The butcher opens a shutter to it’s quarter length and enters inside.
 A man is sleeping inside.
